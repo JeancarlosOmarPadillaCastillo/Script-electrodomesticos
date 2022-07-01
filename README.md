@@ -1,1 +1,1 @@
-# Script-electrodomesticos
+# Base de datos
